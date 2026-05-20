@@ -1,0 +1,1 @@
+web_image = "nginx:1.27-alpine"
