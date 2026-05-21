@@ -2,6 +2,11 @@
 **/.terraform/*
 *.tfstate
 *.tfstate.*
+*.tfplan
+*.tfplan.*
+*.auto.tfvars
+*.auto.tfvars.*
+*.terraform.lock.hcl
 crash.log
 crash.*.log
 
@@ -26,3 +31,5 @@ terraform.rc
 Thumbs.db
 .vscode/
 .idea/
+
+**/.env

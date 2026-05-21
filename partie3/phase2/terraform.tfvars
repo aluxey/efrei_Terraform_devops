@@ -1,0 +1,8 @@
+project_name       = "tp-terraform-florian"
+owner              = "florian.berger@efrei.fr"
+environment        = "dev"
+my_ip              = "37.66.89.1/32"
+aws_region         = "eu-west-3"
+vpc_cidr           = "10.0.0.0/16"
+public_subnet_cidr = "10.0.1.0/24"
+instance_type      = "t3.micro"
